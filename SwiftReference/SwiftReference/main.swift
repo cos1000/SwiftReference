@@ -8,5 +8,9 @@
 
 import Foundation
 
-println("Hello, World!")
+var name: String = "Matt"
+var age: Int = 34
+var height: Double = 172.2
+
+println("name : \(name)\nage : \(age)\nheight : \(height)")
 
